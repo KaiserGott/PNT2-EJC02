@@ -1,3 +1,3 @@
-function saludo(nombre, mensaje) {
-    console.log(mensaje + ", " + nombre + "!");
+function saludo(nombre) {
+    console.log("Hola, " + nombre + "!");
     }
